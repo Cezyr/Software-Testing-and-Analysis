@@ -1,4 +1,5 @@
 ![General project description_page-0001](https://github.com/Cezyr/Software-Testing-and-Analysis/assets/21070681/54fb16e9-04d2-46f9-a6a0-64a9b8651522)
+![General project description_page-0002](https://github.com/Cezyr/Software-Testing-and-Analysis/assets/21070681/36d713ef-1ae1-4d6a-bc7e-ccfe7e98d38c)
 
 
 # Software-Testing-and-Analysis
